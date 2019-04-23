@@ -1,13 +1,15 @@
 # employeeReviews
 
-Context
+Context :
+=============
 Over 67k employee reviews for Google, Amazon, Facebook, Apple, and Microsoft
 
 Content :
+=================
 This dataset contains employee reviews separated into the following categories:
 
 Column names and description :
-
+===============================
 Index: index 
 
 Company: Company name
